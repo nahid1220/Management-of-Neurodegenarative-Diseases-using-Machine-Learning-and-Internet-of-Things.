@@ -1,0 +1,1 @@
+# Management-of-Neurodegenarative-Diseases-using-Machine-Learning-and-Internet-of-Things.
